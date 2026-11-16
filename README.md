@@ -28,6 +28,16 @@ I care about building things that are useful, easy to maintain, and genuinely so
 
 ## Selected work
 
+### Portfolio projects
+
+| Project | What it does |
+| --- | --- |
+| [The Good Digitals](https://thegooddigitals.co.uk/) | Website project for a digital services business. |
+| [Tribalink](https://tribalink.net/) | Website project for the Tribalink brand. |
+| [Precious Gabraels Portfolio](https://preciousgabraels.me/) | My personal portfolio, showcasing my web development work and services. |
+
+### Open-source and GitHub projects
+
 | Project | What it does |
 | --- | --- |
 | [Scraper for WooCommerce](https://github.com/Novavamp/Scraper-for-WooCommerce) | A WooCommerce-focused product scraping project. |
