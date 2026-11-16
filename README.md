@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Precious 👋
 
-<!--
-**Novavamp/Novavamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer · WordPress Specialist · SaaS Builder**
 
-Here are some ideas to get you started:
+I build websites, web applications, and practical digital products. My work spans custom WordPress development, full-stack application development, automation, and the technical work that keeps products running after launch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about building things that are useful, easy to maintain, and genuinely solve a problem.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-preciousgabraels.me-6C5CE7?style=for-the-badge&logo=firefox&logoColor=white)](https://preciousgabraels.me)
+[![GitHub](https://img.shields.io/badge/GitHub-Novavamp-181717?style=for-the-badge&logo=github)](https://github.com/Novavamp)
+
+---
+
+## What I work on
+
+- **Web development:** responsive websites and web applications
+- **WordPress:** custom themes, plugins, Elementor integrations, and WooCommerce solutions
+- **Full-stack development:** React, Node.js, Express, PHP, and PostgreSQL
+- **SaaS products:** product features, dashboards, authentication, subscriptions, and integrations
+- **Automation & integrations:** APIs, workflow automation, and third-party services
+- **SEO & performance:** technical SEO, site structure, accessibility, and performance improvements
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,php,wordpress,postgres,redis,git,github,linux,figma" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Node.js, Express, PHP, WordPress, PostgreSQL, Redis, Git, GitHub, Linux and Figma" />
+</p>
+
+## Selected work
+
+| Project | What it does |
+| --- | --- |
+| [Scraper for WooCommerce](https://github.com/Novavamp/Scraper-for-WooCommerce) | A WooCommerce-focused product scraping project. |
+| [Weather Forecast and Joke Generator](https://github.com/Novavamp/Weather-Forecast-and-Joke-Generator) | A web app combining weather information and light-hearted content. |
+| [AI Prompt Generator](https://github.com/Novavamp/AI-Prompt-Generator-Gemini-) | A prompt-generation project built around Gemini. |
+| [Book Review Website](https://github.com/Novavamp/book-review-website) | A website for browsing and reviewing books. |
+| [Elementor Form Counter Pro](https://github.com/Novavamp/Elementor-Form-Counter-Pro) | A WordPress plugin project for extending Elementor form functionality. |
+| [Podcast Books WP Plugin](https://github.com/Novavamp/Podcast-Books-WP-Plugin) | A WordPress plugin project for podcast and book content. |
+
+I also work on SaaS products, client websites, custom WordPress solutions, and hosting and deployment workflows.
+
+## Currently interested in
+
+- Building useful SaaS products from idea to production
+- Better developer experiences and maintainable WordPress solutions
+- AI-assisted workflows that save people time
+- Reliable deployment, integrations, and product infrastructure
+
+## Let's connect
+
+Have a project, an interesting technical problem, or an opportunity to collaborate?
+
+- **Portfolio:** [preciousgabraels.me](https://preciousgabraels.me)
+- **GitHub:** [@Novavamp](https://github.com/Novavamp)
+
+---
+
+<p align="center">
+  <i>Build with purpose. Keep learning. Ship useful things.</i>
+</p>
