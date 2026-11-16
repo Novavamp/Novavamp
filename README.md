@@ -41,7 +41,7 @@ The following projects are featured in my [portfolio](https://preciousgabraels.m
 | [ICS-Light Technologies](https://icslighttech.com/) | A lead-generation website for project management, HR, supply-chain and training services. |
 | **Beauty By Joya** | A skincare brand website with product sales and service booking journeys. |
 | **The CYF Alumni** | An alumni community website supporting member registration and community connection. |
-| **Dolly Angelo** | An ecommerce experience organised around art styles, collection discovery and product purchases. |
+| [Dolly Angelo](http://dollyangelo.com.ng/) | An ecommerce experience organised around art styles, collection discovery and product purchases. |
 | [EduPhix – School Results Management Platform](https://app.eduphix.app/) | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
 | **Sure Bright Future Unique School** | A school website showcasing the institution, alongside its responsive student results portal. |
 
