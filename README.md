@@ -28,13 +28,20 @@ I care about building things that are useful, easy to maintain, and genuinely so
 
 ## Selected work
 
-### Portfolio projects
+The projects below are featured in the [NovaVamp portfolio](https://novavamp.com/work).
 
 | Project | What it does |
 | --- | --- |
-| [The Good Digitals](https://thegooddigitals.co.uk/) | Website project for a digital services business. |
-| [Tribalink](https://tribalink.net/) | Website project for the Tribalink brand. |
-| [Precious Gabraels Portfolio](https://preciousgabraels.me/) | My personal portfolio, showcasing my web development work and services. |
+| **Harmonif** | A product-led website for an AI creator platform covering content planning, trends, titles, scripts and visual generation. |
+| **ROHANAN Group** | A service-led website for an environmental consulting and project-delivery firm, focused on expertise, trust and enquiries. |
+| **Tech Sisi Academy** | An e-learning experience that helps students access structured digital-skills training. |
+| **Jacy Royal Foundation** | A nonprofit website presenting programmes, impact stories, donations and community participation. |
+| **Ve-Techspot** | A responsive brand and ecommerce redesign for a residential and commercial security provider. |
+| **Fashion Fluid** | A Shopify fashion ecommerce experience for menswear, womenswear and accessories, with payments, shipping and order management. |
+| **ICS-Light Technologies** | A lead-generation website for a business covering management, HR, supply chain and training, delivered in collaboration with Tech Sisi. |
+| **Beauty By Joya** | A responsive sales landing page for a unisex skincare brand, designed around a direct product journey. |
+| **The CYF Alumni** | An alumni community platform for member discovery, events, resources and outreach. |
+| **Dolly Angelo** | An ecommerce experience organised around art styles, collection discovery and product purchases. |
 
 ### Open-source and GitHub projects
 
@@ -47,7 +54,6 @@ I care about building things that are useful, easy to maintain, and genuinely so
 | [Elementor Form Counter Pro](https://github.com/Novavamp/Elementor-Form-Counter-Pro) | A WordPress plugin project for extending Elementor form functionality. |
 | [Podcast Books WP Plugin](https://github.com/Novavamp/Podcast-Books-WP-Plugin) | A WordPress plugin project for podcast and book content. |
 
-I also work on SaaS products, client websites, custom WordPress solutions, and hosting and deployment workflows.
 
 ## Currently interested in
 
