@@ -44,7 +44,6 @@ The following projects are featured in my [portfolio](https://preciousgabraels.m
 | [Dolly Angelo](http://dollyangelo.com.ng/) | An ecommerce experience organised around art styles, collection discovery and product purchases. |
 | [EduPhix – School Results Management Platform](https://eduphix.app/) | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
 | **Sure Bright Future Unique School** | A school website showcasing the institution, alongside its responsive student results portal. |
-
 | [Tech Sisi](https://techsisi.com/) | Tech Sisi's website. |
 ### Open-source and GitHub projects
 
