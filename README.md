@@ -28,29 +28,22 @@ I care about building things that are useful, easy to maintain, and genuinely so
 
 ## Selected work
 
-The projects below are featured in the [NovaVamp portfolio](https://novavamp.com/work).
+The following projects are featured in my [portfolio](https://preciousgabraels.me/), with additional case studies on [NovaVamp](https://novavamp.com/work).
 
 | Project | What it does |
 | --- | --- |
-| **Harmonif** | A product-led website for an AI creator platform covering content planning, trends, titles, scripts and visual generation. |
-| **ROHANAN Group** | A service-led website for an environmental consulting and project-delivery firm, focused on expertise, trust and enquiries. |
-| **Tech Sisi Academy** | An e-learning experience that helps students access structured digital-skills training. |
-| **Jacy Royal Foundation** | A nonprofit website presenting programmes, impact stories, donations and community participation. |
-| **Ve-Techspot** | A responsive brand and ecommerce redesign for a residential and commercial security provider. |
-| **Fashion Fluid** | A Shopify fashion ecommerce experience for menswear, womenswear and accessories, with payments, shipping and order management. |
-| **ICS-Light Technologies** | A lead-generation website for a business covering management, HR, supply chain and training, delivered in collaboration with Tech Sisi. |
-| **Beauty By Joya** | A responsive sales landing page for a unisex skincare brand, designed around a direct product journey. |
-| **The CYF Alumni** | An alumni community platform for member discovery, events, resources and outreach. |
+| [Harmonif](https://harmonif.com/) | A product-led marketing experience for an AI creator platform covering planning, trends, titles, scripts and visual generation. |
+| [ROHANAN Group](https://rohananptgroup.com/) | A service-led website for an environmental consulting and project-delivery firm. |
+| [Tech Sisi Academy](https://techsisilearn.com/) | An e-learning experience for practical digital-skills training. |
+| [Jacy Royal Foundation](https://jacyroyalfoundation.com/) | A nonprofit website presenting programmes, impact stories, donations and community participation. |
+| [Ve-Techspot](https://vetechspot.com.ng/) | A responsive website and ecommerce experience for a residential and commercial security provider. |
+| **Fashion Fluid** | A Shopify fashion ecommerce experience spanning menswear, womenswear and accessories. |
+| [ICS-Light Technologies](https://icslighttech.com/) | A lead-generation website for project management, HR, supply-chain and training services. |
+| [Beauty By Joya](https://beautybyjoya.com/) | A skincare brand website with product sales and service booking journeys. |
+| [The CYF Alumni](https://cyfalumni.nicepage.io/Home.html) | An alumni community website supporting member registration and community connection. |
 | **Dolly Angelo** | An ecommerce experience organised around art styles, collection discovery and product purchases. |
-
-### Additional featured work
-
-These projects are also featured in the portfolio at [preciousgabraels.me](https://preciousgabraels.me/).
-
-| Project | What it does |
-| --- | --- |
-| **EduPhix – School Results Management Platform** | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
-| **Sure Bright Future Unique School** | A school website presenting the institution, its learning environment and key information for parents, alongside a responsive student results portal. |
+| [EduPhix – School Results Management Platform](https://app.eduphix.app/) | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
+| **Sure Bright Future Unique School** | A school website showcasing the institution, alongside its responsive student results portal. |
 
 ### Open-source and GitHub projects
 
