@@ -43,6 +43,15 @@ The projects below are featured in the [NovaVamp portfolio](https://novavamp.com
 | **The CYF Alumni** | An alumni community platform for member discovery, events, resources and outreach. |
 | **Dolly Angelo** | An ecommerce experience organised around art styles, collection discovery and product purchases. |
 
+### Additional featured work
+
+These projects are also featured in the portfolio at [preciousgabraels.me](https://preciousgabraels.me/).
+
+| Project | What it does |
+| --- | --- |
+| **EduPhix – School Results Management Platform** | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
+| **Sure Bright Future Unique School** | A school website presenting the institution, its learning environment and key information for parents, alongside a responsive student results portal. |
+
 ### Open-source and GitHub projects
 
 | Project | What it does |
