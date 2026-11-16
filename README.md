@@ -33,14 +33,14 @@ The following projects are featured in my [portfolio](https://preciousgabraels.m
 | Project | What it does |
 | --- | --- |
 | [Harmonif](https://harmonif.com/) | A product-led marketing experience for an AI creator platform covering planning, trends, titles, scripts and visual generation. |
-| [ROHANAN Group](https://rohananptgroup.com/) | A service-led website for an environmental consulting and project-delivery firm. |
+| **ROHANAN Group** | A service-led website for an environmental consulting and project-delivery firm. |
 | [Tech Sisi Academy](https://techsisilearn.com/) | An e-learning experience for practical digital-skills training. |
 | [Jacy Royal Foundation](https://jacyroyalfoundation.com/) | A nonprofit website presenting programmes, impact stories, donations and community participation. |
-| [Ve-Techspot](https://vetechspot.com.ng/) | A responsive website and ecommerce experience for a residential and commercial security provider. |
+| **Ve-Techspot** | A responsive website and ecommerce experience for a residential and commercial security provider. |
 | **Fashion Fluid** | A Shopify fashion ecommerce experience spanning menswear, womenswear and accessories. |
 | [ICS-Light Technologies](https://icslighttech.com/) | A lead-generation website for project management, HR, supply-chain and training services. |
-| [Beauty By Joya](https://beautybyjoya.com/) | A skincare brand website with product sales and service booking journeys. |
-| [The CYF Alumni](https://cyfalumni.nicepage.io/Home.html) | An alumni community website supporting member registration and community connection. |
+| **Beauty By Joya** | A skincare brand website with product sales and service booking journeys. |
+| **The CYF Alumni** | An alumni community website supporting member registration and community connection. |
 | **Dolly Angelo** | An ecommerce experience organised around art styles, collection discovery and product purchases. |
 | [EduPhix – School Results Management Platform](https://app.eduphix.app/) | A full-stack school results platform for managing scores, computing results and publishing school-branded report cards. |
 | **Sure Bright Future Unique School** | A school website showcasing the institution, alongside its responsive student results portal. |
